@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Academize and Trasheroo projects.<br><br>Currently contributing to Listenbrainz project of Metabrainz before my GSoC preparation.<br><br>I'm learning more advanced concepts of the React framework.<br><br>A passionate singer doing his best to balance his work and passion.<br><br>Fun Fact:<br>Light Novels >>> Novels
+Hey! This is Sharan. I'm from a college club called amFOSS.<br><br>Currently I'm looking into organizations to contribute. I mainly focus on web development but I am also fairly proficient in flutter.<br><br>I'm learning about Nginx currently and its usecases. I plan on soon starting DevOps.<br><br>I have an interest in AI-ML projects and am looking forward to working on them.<br><br>  I'm a passionate singer doing his best to balance his work and passion.
 
 
 ## 🌐 Socials:
