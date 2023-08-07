@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! This is Sharan. I'm from a college club called amFOSS.<br><br>Currently I'm looking into organizations to contribute. I mainly focus on web development but I am also fairly proficient in flutter.<br><br>I'm learning about Nginx currently and its usecases. I plan on soon starting DevOps.<br><br>I have an interest in AI-ML projects and am looking forward to working on them.<br><br>  I'm a passionate singer doing his best to balance his work and passion.
+Hey! This is Sharan. I'm from a college club called amFOSS.<br><br>Currently I'm looking into organizations to contribute. I mainly focus on web development but I am also fairly proficient in flutter.<br><br>I'm learning about Nginx currently and its usecases. I plan on soon starting DevOps.<br><br>I have an interest in AI-ML projects and am looking forward to working on them.<br><br>  I'm also a passionate singer doing his best to balance his work and passion.
 
 
 ## 🌐 Socials:
