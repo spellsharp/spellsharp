@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hey! Machine Learning and Deep Learning are my main fields of interest. I have worked on a few classic machine learning projects and some deep learning projects in computer vision and medical image segmentation. I'm currently looking into audio processing as well. You may want to check out my Kaggle account for any AI related projects that I have worked on.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssv_myself) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/spellsharp)
 
 # 📊 GitHub Stats:
