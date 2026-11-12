@@ -26,6 +26,8 @@ Visit my [website](https://shrisharanyan.com) to know more about me.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/docs/images/MONAI-logo-color.png" alt="MONAI" height="48" />
   &nbsp;
+  <img src="https://raw.githubusercontent.com/Slicer/Slicer/main/Applications/SlicerApp/Resources/Icons/XXLarge/Slicer-DesktopIcon.png" alt="3D Slicer" height="48" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=py,pytorch,docker,linux,react,nextjs" alt="Python, PyTorch, Docker, Linux, React, Next.js" height="48" />
 </p>
 
