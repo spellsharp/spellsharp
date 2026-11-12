@@ -12,6 +12,6 @@ machine learning for clinical imaging, from hospital data pipelines to evaluatio
 - **Beyond In-Distribution Metrics: A Systematic OOD Evaluation of CHD Segmentation**,
   STACOM @ MICCAI 2026 · [arXiv:2609.17068](https://arxiv.org/abs/2609.17068)
 - **Global to Local Registration: Transferring Pretrained Registration Models to
-  CT/MR–Ultrasound via Anatomical Supervision**, ASMUS @ MICCAI 2026 · [link]
+  CT/MR–Ultrasound via Anatomical Supervision**, ASMUS @ MICCAI 2026 · [link](https://papers.miccai.org/miccai-2026-sat/paper/ASMUS_058.pdf)
 
 🌐 [shrisharanyan.com](https://shrisharanyan.com) · [Google Scholar](#) · [LinkedIn](#)
