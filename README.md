@@ -1,17 +1,17 @@
-### 💫 About Me
-Hey! Machine Learning and Deep Learning are my main fields of interest. I have worked on a few classic machine learning projects and some deep learning projects in computer vision and medical image segmentation. Please check out my Kaggle account for any AI related projects that I have worked on!
+# Shrisharanyan Vasu
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/spellsharp)
+Deep learning researcher at **MAITRI-Labs** (Amrita Hospital, Kochi), working on
+machine learning for clinical imaging, from hospital data pipelines to evaluation.
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=spellsharp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spellsharp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spellsharp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🫀 Congenital heart disease: cardiac segmentation, OOD robustness, CHD classification
+- 🔊 CT/MR–ultrasound registration with pretrained models (multiGradICON)
+- 🩺 Ulcerative colitis grading from colonoscopy video
+- Member, **MONAI Ultrasound Working Group** · GSoC 2025 @ DeepChem
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=spellsharp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Publications
+- **Beyond In-Distribution Metrics: A Systematic OOD Evaluation of CHD Segmentation**,
+  STACOM @ MICCAI 2026 · [arXiv:2609.17068](https://arxiv.org/abs/2609.17068)
+- **Global to Local Registration: Transferring Pretrained Registration Models to
+  CT/MR–Ultrasound via Anatomical Supervision**, ASMUS @ MICCAI 2026 · [link]
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spellsharp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=spellsharp&icon=6&color=0)](https://visitcount.itsvg.in)
+🌐 [shrisharanyan.com](https://shrisharanyan.com) · [Google Scholar](#) · [LinkedIn](#)
