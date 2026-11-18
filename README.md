@@ -28,7 +28,7 @@ Visit my [website](https://shrisharanyan.com) to know more about me.
   &nbsp;
   <img src="https://raw.githubusercontent.com/Slicer/Slicer/main/Applications/SlicerApp/Resources/Icons/XXLarge/Slicer-DesktopIcon.png" alt="3D Slicer" height="48" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=py,pytorch,docker,linux,react,nextjs" alt="Python, PyTorch, Docker, Linux, React, Next.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,linux,react,nextjs" alt="Python, PyTorch, Linux, React, Next.js" height="48" />
 </p>
 
 ## Reach me
